@@ -1,0 +1,19 @@
+﻿  Bob.cpp
+  Engine.cpp
+c:\users\tenay\documents\visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tenay\documents\visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(9): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tenay\documents\visual studio stuff\projects\simple game engine\simple game engine\engine.cpp(11): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Simple Game Engine.vcxproj -> C:\Users\Tenay\Documents\Visual Studio Stuff\Projects\Simple Game Engine\Debug\Simple Game Engine.exe
